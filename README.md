@@ -26,9 +26,36 @@ VALUES("Barbie", "toys", 14.99, 100),
 ("Headphones", "Electronics", 11.95, 10);
 
 SELECT * FROM products
+![Image of the over sql]
+(./assets/images/sqltable.png)
+
 
 Level One Outcomes: 
 ![list of items for sale]
-(assets/images/itemsForSale.png)
+(./assets/images/itemsForSale.png)
 
-![]
+![Example 1]
+(./assets/images/level1Example1.png)
+
+![Example 2]
+(./assets/images/level1Example2.png)
+
+![Image of sql update]
+(./assets/images/level1SequelScreenshot.png)
+
+
+Level Two Outcomes:
+![Image of inquirer]
+(./assets/images/level2ShowInquirer.png)
+
+![screenshot of inventory]
+(./assets/images/level2ShowInventory.png)
+
+![Adding quantity to the inventory]
+(bamazon/assets/images/addingToInventory.png)
+(../assets/images/addingToInventorySQL.png)
+Resulted in a null value in the table.
+
+![Adding a new product]
+./assets/images/addProductToInventory.png
+Resulted in nulls.
