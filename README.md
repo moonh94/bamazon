@@ -1,6 +1,6 @@
 # bamazon
 SQL database code:
-DROP DATABASE IF EXISTS bamazon_db;
+`DROP DATABASE IF EXISTS bamazon_db;
 
 CREATE DATABASE bamazon_db;
 
@@ -25,7 +25,7 @@ VALUES("Barbie", "toys", 14.99, 100),
 ("Nitendo Switch", "Electronics", 450, 50),
 ("Headphones", "Electronics", 11.95, 10);
 
-SELECT * FROM products
+SELECT * FROM products`
 
 ![Image of the over sql]
 
