@@ -29,4 +29,6 @@ SELECT * FROM products
 
 Level One Outcomes: 
 ![list of items for sale]
-(./assets/images/itemsForSale.png)
+(assets/images/itemsForSale.png)
+
+![]
